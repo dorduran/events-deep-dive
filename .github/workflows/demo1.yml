@@ -12,7 +12,6 @@ on:
       # developer-1 is not covered
     paths-ignore:
       - '.github/workflows/*'
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
