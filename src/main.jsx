@@ -5,6 +5,7 @@ import App from './App';
 import './index.css';
 
 // This is important!
+// This is more important!
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
